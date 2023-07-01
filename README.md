@@ -1,7 +1,7 @@
 # Quetzalcoatl
 Novela Quetzalcoatl y la Manzana Psicológica, la primera novela en Markdown y GitHub
 
-# Capitulo 1: El Universo
+# Capitulo 1: El Universo (Día 1)
 En un principio, el Universo se creó solo.  Esto fue fácil para Él ya que lo había hecho innumerables veces.
 
 El problema es que siempre todo terminaba en catástrofe.  Una y otra vez, el universo no era rival para la entropía y tenía que 'hacerse bolita' al final, comprimise en el tamaño de una partícula para protegerse a Si mismo de Ella.
@@ -24,6 +24,12 @@ Y pues vino por fin el "Big Bang" definitivo. El Universo tenía un haz bajo la 
 
 La Entropía no podía reinar si el campo de juego siempre cambiaba.  Con las reglas establecidas, pronto la Entropía sabía como desordenarlas, pero si una variable cambiaba "misteriosamente" pues eso la pobre Entropía la sacaba de quicio, aunque este todavía no existía.
 
-Para pronto, una nueva particula, misteriosa obviamente, que no tenía masa ni lugar especifico
+Para pronto, no solo el Universo inventó una particula misteriosa sin masa ni lugar (que un día llamaríamos electrón, porque sonaba chido), sino que todas las demas particulas iban a ser hilos unidimensionales que iban a ninguna lado, pero oscilaban sin cesár y su osilación formarían una formula de onda ("wave function") que confundiría no solo a los que en un futuro la estudiacen, sino a la misma Entropía que tenía manera de deshacer esos nudos formados porque cambiaban a cada rato sin razón.
+
+Entonces el Universo había encontrado su forma actual.  Ahora era cuestión de trabajar con la herramientas en pie, para seguir formandose a si mismo y madurando.
+
+Este era el Big Bang de los Big Bangs y pronto habría mucho tela de donde cortar, porque ya era posible crear la tela, los soles, las estrellas y hasta las telenovelas, ya que sin las cuerdas, era imposible pensar la transmisión de un mensaje a grandes distancias para transformarlo de magnetismo a rayos (catódicos no católicos como siempre los confunden) que terminen impactados en una pelicula de fósforo y todo para ver lágrimas de cocodrilo.  Bueno, pero a eso al Universo ni le iba ni le venía, ya que Él solo estaba enfocado en su beneficio personal y su longevidad, no en dramas futuros que su materia pudiera tener.
+
+Para fines prácticos (y esas son palabras clave cuando hablamos del Universo) ya había pasado un día completo y miles, megas, gigas, teras o como se llame de "ante dias" cuando el Universo no podía ni contar el tiempo.  Y fue motivo de celebración, pero había todavía mucho que hacer, por lo que el Universo no se podía dar un descanso.
 
 
