@@ -32,4 +32,4 @@ Este era el Big Bang de los Big Bangs y pronto habría mucho tela de donde corta
 
 Para fines prácticos (y esas son palabras clave cuando hablamos del Universo) ya había pasado un día completo y miles, megas, gigas, teras o como se llame de "ante dias" cuando el Universo no podía ni contar el tiempo.  Y fue motivo de celebración, pero había todavía mucho que hacer, por lo que el Universo no se podía dar un descanso.
 
-
+[Dia 2](el_universo/dia_dos.md)
