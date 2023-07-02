@@ -1,7 +1,7 @@
-# Quetzalcoatl
-Novela Quetzalcoatl y la Manzana Psicológica, la primera novela en Markdown y GitHub
+# Quetzalcóatl y la Manzana Psicológica,
+La primera novela en Markdown y GitHub
 
-# Capitulo 1: El Universo (Día 1)
+# Día 1
 En un principio, el Universo se creó solo.  Esto fue fácil para Él ya que lo había hecho innumerables veces.
 
 El problema es que siempre todo terminaba en catástrofe.  Una y otra vez, el universo no era rival para la entropía y tenía que 'hacerse bolita' al final, comprimise en el tamaño de una partícula para protegerse a Si mismo de Ella.
